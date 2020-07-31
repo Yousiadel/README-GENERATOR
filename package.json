@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "![Readme generator screenshot](readme-generator-screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yousiadel/README-GENERATOR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yousiadel/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/Yousiadel/README-GENERATOR#readme"
+}
